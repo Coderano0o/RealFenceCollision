@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "site.coderan.realfencecollision.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "realfencecollision.refmap.json",
+  "mixins": [
+    "MainMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
